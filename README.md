@@ -1,8 +1,8 @@
 
-## Technologies Used:
+## Tecnologias usadas:
 [![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
 
-## How to run the project :
+## Como rodar :
 
 1. **Requerimentos:**
    - Node.js installed (with npm - Node Package Manager).
@@ -23,5 +23,5 @@
    - npm start
 
 
-6. **Accessing the project:**
-Open the project in your browser at: `http://localhost:3001` (or another port, if specified).
+6. **Acessando o projeto:**
+Abrir o projeto na porta: `http://localhost:3001` (ou outra se especificado).
