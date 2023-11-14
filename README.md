@@ -5,8 +5,8 @@
 ## Como rodar :
 
 1. **Requerimentos:**
-   - Node.js installed (with npm - Node Package Manager).
-   - Axios installed.
+   - Node.js instalado (com npm - Node Package Manager).
+   - Axios instalado.
 
 2. **Clonando o repositório:**
    - git clone <repository_url>
