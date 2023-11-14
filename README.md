@@ -1,37 +1,25 @@
 
-<p>This project represents the third challenge of the Compass.UOL Scholarship Program. The task involved creating a responsive web application with various distinct page routes, 
-  enabling users to access different sections seamlessly on various devices. Additionally, we implemented a user registration and login system to enhance the overall user experience.</p>
-
-## List of Features:
-- The website allows users to navigate through various pages, enabling them to explore different sections and content.
-
-- Users can create their accounts on the platform, providing essential information such as name, email, and password.
-
-- Registered users have the flexibility to edit and update their profile information, including profile picture, bio, and other relevant details.
-
-- Users can log in to their accounts, gaining personalized access to features and content reserved for registered users.
-
 ## Technologies Used:
 [![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
 
 ## How to run the project :
 
-1. **Requirements:**
+1. **Requerimentos:**
    - Node.js installed (with npm - Node Package Manager).
    - Axios installed.
 
-2. **Cloning the repository:**
+2. **Clonando o repositório:**
    - git clone <repository_url>
    
 
-3. **Installing dependencies:**
+3. **Instalar dependencias:**
    - cd project_name
    - npm install
 
-4. **Running the server:**
+4. **Rodar o  server:**
    - npm run server
 
-5. **Running the project:**
+5. **Rodar o projeto:**
    - npm start
 
 
